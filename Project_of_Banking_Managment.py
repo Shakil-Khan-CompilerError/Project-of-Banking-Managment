@@ -87,8 +87,8 @@ class Admin:
 admin = Admin()
 
 # Create user accounts
-admin.create_account("Abid", "abid456@example.com", "Moheshkhali", "Savings")
-admin.create_account("Shakil", "shakil253@example.com", "Banderban", "Current")
+admin.create_account("Abid", "Irfan456@example.com", "Dohajari", "Savings")
+admin.create_account("Shakil", "shakil253@example.com", "Bandarban", "Current")
 
 # See all user accounts
 admin.see_all_accounts()
